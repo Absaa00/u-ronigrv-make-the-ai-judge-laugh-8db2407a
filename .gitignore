@@ -1,0 +1,7 @@
+# u-ronigrv-make-the-ai-judge-laugh-8db2407a — local-only ignores for this one-line entry
+node_modules/
+.output/
+*.log
+.DS_Store
+bundle*.tar.gz
+/tmp/
